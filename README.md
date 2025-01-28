@@ -1,6 +1,6 @@
 # Aurum_RayTracing
 
-主要学习了[https://github.com/AKGWSB/EzRT]大佬的项目，接着看learningOpengl时搭的框架，用了assimp库传顶点数据和Cook-Torrance BRDF模型
+主要学习了https://github.com/AKGWSB/EzRT大佬的项目，接着看learningOpengl时搭的框架，用了assimp库传顶点数据和Cook-Torrance BRDF模型
 
 ## 鼠标操作
 - 滚轮可以使用
