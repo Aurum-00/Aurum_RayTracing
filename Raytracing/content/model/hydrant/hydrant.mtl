@@ -1,0 +1,9 @@
+# Material Count: 1
+newmtl wire_000000000
+kd 0.6 0.6 0.6
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_Ka hydrant_albedo.jpg
